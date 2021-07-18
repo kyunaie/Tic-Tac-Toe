@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-##✨A Chrome Extension
+## ✨A Chrome Extension
