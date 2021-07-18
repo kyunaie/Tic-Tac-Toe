@@ -2,6 +2,6 @@
 ## ✨A Chrome Extension
 
 #### 🛠Built using Html,css and Js!
-#### You can play it as Webpage here.
+#### You can play it as a Webpage [here](https://kyunaie.github.io/).
 
-## Codepen
+### [Codepen](https://codepen.io/kyunaie/pen/ZEKBRpM)
